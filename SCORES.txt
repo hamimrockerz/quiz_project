@@ -1,0 +1,31 @@
+
+Mathmatics : Hamim ---- 4
+Mathmatics : Hamim ---- 4
+GENAREL KNOWLEDGE : hamim ---- 4
+Mathmatics : h ---- 0
+General Knowledge : t ---- 0
+Science : j ---- 1
+Science : u ---- 0
+Science : q ---- 1
+Mathmatics :  ---- 0
+Mathmatics : l ---- 0
+General Knowledge : z ---- 0
+Mathmatics :  ---- 3
+Mathmatics : h ---- 1
+Mathmatics : ha ---- 0
+General Knowledge : k ---- 0
+Science : f ---- 0
+Mathmatics : k ---- 5
+Mathmatics : a ---- 4
+Mathmatics : l ---- 5
+Mathmatics : o ---- 3
+Mathmatics : Hamim ---- 3
+Mathmatics : h ---- 5
+Mathmatics : h ---- 4
+Math Trivia : k ---- 0
+Mathmatics :- k ---- 2
+j ---- Quitted Game
+General Knowledge :-  ---- 1
+Mathmatics :-  ---- 0
+Science :- HaMIM ---- 0
+Science :- HaMIM ---- 0
