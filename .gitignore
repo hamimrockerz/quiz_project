@@ -1,0 +1,5 @@
+*.exe
+*.class
+New folder/Practice1/bin/App.class
+New folder/Practice1/src/App.class
+New folder/Practice1/src/*.class
